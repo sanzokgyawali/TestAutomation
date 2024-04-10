@@ -1,0 +1,7 @@
+{
+  "Reporting": "http://dev-reports.itsutra.com/",
+  "Accounts": "http://dev-accounts.itsutra.com",
+  "Supports": "http://dev.supportapp.com",
+  "AccountsConnectionStrings": "data source=sql-itsutradev.database.windows.net;initial catalog=sqldb-accounts-dev;user id=itsutraDev;password=c0mfOrtable!;MultipleActiveResultSets=True;App=EntityFramework",
+  "SupportsConnectionStrings": "data source=sql-itsutradev.database.windows.net;initial catalog=sqldb-support-dev;user id=itsutraDev;password=c0mfOrtable!;MultipleActiveResultSets=True;App=EntityFramework"
+}

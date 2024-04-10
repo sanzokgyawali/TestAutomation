@@ -1,0 +1,16 @@
+﻿{
+  "bindingCulture": {
+    "language": "en-us"
+  },
+  "language": {
+    "feature": "en-us"
+  },
+  "stepAssemblies": [
+    {
+      "assembly": "ITsutra.Api"
+    },
+    {
+      "assembly": "ITsutra.UI"
+    }
+  ]
+}

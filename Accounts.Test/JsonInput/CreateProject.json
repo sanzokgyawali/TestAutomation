@@ -1,0 +1,12 @@
+{
+  "consultantId": 2,
+  "companyId": 32,
+  "startDt": "2020-07-17T14:36:09.953Z",
+  "endDt": "2020-08-17T14:36:09.953Z",
+  "invoiceCycleStartDt": "2020-08-17T14:36:09.953Z",
+  "termId": 2,
+  "invoiceCycleId": 3,
+  "discountType": 1,
+  "discountValue": 5,
+  "rate": 10
+}
